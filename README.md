@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShalindaAmil
-- 👀 I’m interested in web development, Android development, and data science.
+- 👀 I’m interested in software Engineering, machine learning, Data Science and Python development.
 - 🌱  I’m currently learning spaCy for advanced natural language understanding systems.
 - 💞️  I’m looking to collaborate on projects related to subscription service web apps, authentication systems, and payment integration with Stripe.
 - 📫 How to reach me shalindaamil22@gmail.com
